@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1515781433278" stop="1515781442668">
+  <name>Login</name>
+  <title>Login</title>
+  <test-cases>
+    <test-case start="1515781433278" stop="1515781440934" status="passed">
+      <name>Login quando o usu&#xE1;rio informa uma senha inv&#xE1;lida</name>
+      <title>Login quando o usu&#xE1;rio informa uma senha inv&#xE1;lida</title>
+      <steps/>
+      <attachments>
+        <attachment source="b05eece9415f8b889fd2b77cb673d1f57b535148307655da2e265c63d3085447-attachment.png" title="screenshot" size="26815" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="thread" value="16997000"/>
+        <label name="host" value="MTZNOTFS-FCAMARA1100"/>
+      </labels>
+      <parameters/>
+    </test-case>
+    <test-case start="1515781440935" stop="1515781442668" status="passed">
+      <name>Login quando o usu&#xE1;rio n&#xE3;o~est&#xE1; cadastrado</name>
+      <title>Login quando o usu&#xE1;rio n&#xE3;o~est&#xE1; cadastrado</title>
+      <steps/>
+      <attachments>
+        <attachment source="46035726a9a9c6006c108278011e4ce8156b8a2416cce729add07e81e861d01a-attachment.png" title="screenshot" size="26448" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="thread" value="16997000"/>
+        <label name="host" value="MTZNOTFS-FCAMARA1100"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="thread" value="16997000"/>
+    <label name="host" value="MTZNOTFS-FCAMARA1100"/>
+  </labels>
+</ns2:test-suite>
